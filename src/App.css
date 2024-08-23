@@ -1,4 +1,10 @@
-.App {
+body {
+  background-color: black; /* Set the background color of the whole page */
+  color: red; /* Set text color to white for better readability */
+  margin: 0; /* Remove default margin */
+  font-family: Arial, sans-serif; /* Optional: Set a font for the page */
+  
+}.App {
   text-align: center;
 }
 
@@ -14,7 +20,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #2155bd;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

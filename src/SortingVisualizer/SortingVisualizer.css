@@ -1,0 +1,43 @@
+/* SortingVisualizer.css */
+
+.array-container {
+    position: absolute;
+    left: 59px;
+  }
+  .page-title {
+    font-size: 2em; /* Adjust size as needed */
+    color: white; /* Adjust color if needed */
+    margin-bottom: 10px; /* Space below the title */
+    text-align: center; /* Center the title */
+}
+  
+  .array-bar {
+    width: 4.6px;
+    display: inline-block;
+    margin: 0 1px;
+    max-height: 732px;
+  }
+  
+  .logo {
+    width: 60px; /* Adjust the width of the logo */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Make sure it’s a block element */
+    margin: 20px auto; /* Center horizontally */
+  }
+  
+  .logo-left {
+    width: 100px; /* Adjust size as needed */
+    height: auto;
+    position: absolute;
+    top: -12px; /* Adjust vertical placement */
+    left: -70px; /* Adjust horizontal placement */
+  }
+  
+  .logo-right {
+    width: 120px; /* Adjust size as needed */
+    height: auto;
+    position: absolute;
+    top: 20px; /* Adjust vertical placement */
+    right: 20px; /* Adjust horizontal placement */
+  }
+  
